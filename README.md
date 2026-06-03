@@ -1,3 +1,3 @@
 # hii, i'm Vishal.
 
-![Recursive Terminal Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&keyword_color=FF79C6&built_in_color=8BE9FD&lines=def+life():+learn(),+ship(),+life();Learn,+Ship+Recursively.)
+![Simple Text Animation](https://readme-typing-svg.demolab.com?font=Inter&size=16&color=C9D1D9&vCenter=true&width=400&lines=Learn%2C+Ship+Recursively.;def+life()%3A+learn()%2C+ship()%2C+life())
