@@ -1,6 +1,6 @@
 # hey, i'm Vishal.
  
-second-year undergrad at KIOT, Tamil Nadu.  
+undergrad at KIOT, Tamil Nadu, INDIA.  
 studying AI & Data Science.
  
-i like building things more than talking about them.
+here to learn. everything else follows.
